@@ -1,0 +1,14 @@
+layout_spectrum: 0.4899749
+color:
+  saturation: 0.4649447
+  lightness: 0.7486558
+  brandStrength: 0.447995
+  brandColors:
+    - '#4E7489'
+    - '#010101'
+    - '#F3C600'
+    - '#37404A'
+    - '#CFAC5B'
+  rhythmicContrast: 0.5263158
+typography_spectrum: 0
+name: NeoGeo
