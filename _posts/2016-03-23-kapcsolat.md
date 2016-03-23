@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-23T13:05:45.226Z'
-dateModified: '2016-03-23T13:05:29.911Z'
+datePublished: '2016-03-23T14:18:47.801Z'
+dateModified: '2016-03-23T14:16:54.603Z'
 title: Kapcsolat
 author: []
+sourcePath: _posts/2016-03-23-kapcsolat.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-kapcsolat.md
-published: true
 url: kapcsolat/index.html
 _type: Article
 
@@ -26,4 +26,4 @@ _type: Article
 
 e-mail: info@neogeo.hu
 
-tel.: +36.20.325.1943
+tel.: +36.20.325.1942
